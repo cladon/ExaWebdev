@@ -5,7 +5,7 @@ Stappenplan
 
 1.    Het idee
 
-      << uitschrijven >>
+<< uitschrijven >>
 
 2.    De analyse  
 
@@ -17,7 +17,7 @@ Stappenplan
 
 3.    Design en ontwikkeling
 
-      Opvolging van het project via een github
+Opvolging van het project via een github
       
 4.    Testfase
 
